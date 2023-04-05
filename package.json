@@ -1,0 +1,12 @@
+{
+  "name": "nuclearlauncher",
+  "version": "2.0.3",
+  "productName": "Nuclear Launcher",
+  "description": "Nuclear Lands Official Launcher",
+  "author": "Skyy (https://github.com/Minecraft-Modded-War)",
+  "license": "All Rights Reserved",
+  "homepage": "https://nukenet.cc",
+  "bugs": {
+    "url": "https://github.com/Minecraft-Modded-War/nuclearlauncher-version-channel/issues"
+  },
+}
